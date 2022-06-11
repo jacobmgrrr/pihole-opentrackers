@@ -3648,6 +3648,7 @@
 0.0.0.0 www.piratebrowser.org
 0.0.0.0 www.piratecity.net
 0.0.0.0 www.pirateclub.hu
+0.0.0.0 www.pirateproxy-bay.com
 0.0.0.0 www.pirathub.org
 0.0.0.0 www.pittsbororelayforlife.org
 0.0.0.0 www.planetshare.org
