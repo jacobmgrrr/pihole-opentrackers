@@ -32,6 +32,7 @@
 0.0.0.0 4realtorrentz.com
 0.0.0.0 52.58.128.163
 0.0.0.0 5230n.ru
+0.0.0.0 5mins.shop
 0.0.0.0 5rt.tace.ru
 0.0.0.0 5tigorsk.ru
 0.0.0.0 600sec.ru
@@ -1314,6 +1315,7 @@
 0.0.0.0 minorstudio.com
 0.0.0.0 mir-games.org
 0.0.0.0 mirror.aptus.co.tz
+0.0.0.0 mirrorbay.top
 0.0.0.0 mirrortorrents.ru
 0.0.0.0 Miska-mccute.net
 0.0.0.0 mixes.dfx.at
@@ -1671,7 +1673,9 @@
 0.0.0.0 Pig2pig.com
 0.0.0.0 Pinoytorrents.net
 0.0.0.0 pinoy-tv-replay.com
+0.0.0.0 piraat.xyz
 0.0.0.0 piranha.excom.us
+0.0.0.0 pirate.cfd 
 0.0.0.0 piratebay.am
 0.0.0.0 piratebay.cc
 0.0.0.0 piratebay.fm
@@ -1681,6 +1685,7 @@
 0.0.0.0 piratebay.tv
 0.0.0.0 piratebay.tw
 0.0.0.0 piratebay.vc
+0.0.0.0 piratebayproxyz.com
 0.0.0.0 piratebits.org
 0.0.0.0 piratebrowser.com
 0.0.0.0 piratebrowser.net
@@ -1689,9 +1694,13 @@
 0.0.0.0 Pirateclub.hu
 0.0.0.0 pirateday.hu
 0.0.0.0 Pirateday.net
-0.0.0.0 pirateproxy-bay.com
+0.0.0.0 piratepiratebay.com
+0.0.0.0 pirateproxy.live
+0.0.0.0 pirate-proxy.pw
+0.0.0.0 piratesbay.sbs
 0.0.0.0 Pirates-cove.biz
 0.0.0.0 pirate-share.net
+0.0.0.0 piratetoday.xyz
 0.0.0.0 piratetorrents.nu
 0.0.0.0 pirateworld.org
 0.0.0.0 pirateyes.org
@@ -2395,6 +2404,11 @@
 0.0.0.0 Toxicj.net
 0.0.0.0 Toxictorrents.com
 0.0.0.0 tp.m-team.cc
+0.0.0.0 tpb.party
+0.0.0.0 tpb.skynetcloud.site
+0.0.0.0 tpb.wtf
+0.0.0.0 tpb22.ukpass.co
+0.0.0.0 tpb23.ukpass.co
 0.0.0.0 tr.abiir.top
 0.0.0.0 tr.abir.ga
 0.0.0.0 tr.bangumi.moe
@@ -3649,6 +3663,7 @@
 0.0.0.0 www.piratebrowser.org
 0.0.0.0 www.piratecity.net
 0.0.0.0 www.pirateclub.hu
+0.0.0.0 www.pirateproxy.space
 0.0.0.0 www.pirateproxy-bay.com
 0.0.0.0 www.pirathub.org
 0.0.0.0 www.pittsbororelayforlife.org
@@ -3992,6 +4007,7 @@
 0.0.0.0 www.torrpeda.org
 0.0.0.0 www.total-share.org
 0.0.0.0 www.toxictorrents.com
+0.0.0.0 www.tpbproxypirate.com
 0.0.0.0 www.tracker.gunsnroses.us
 0.0.0.0 www.tracker.nano-net.ro
 0.0.0.0 www.trackermx.com
@@ -4183,6 +4199,7 @@
 0.0.0.0 www.zoozle.org
 0.0.0.0 www.zoubhd.org
 0.0.0.0 www.zourtube.com
+0.0.0.0 www1.thepiratebay3.to
 0.0.0.0 X264.eu
 0.0.0.0 x264.me
 0.0.0.0 Xbitz.org
@@ -4275,4 +4292,3 @@
 0.0.0.0 zoomtorrents.com
 0.0.0.0 Zoozle.org
 0.0.0.0 Ztracker.hu
-
