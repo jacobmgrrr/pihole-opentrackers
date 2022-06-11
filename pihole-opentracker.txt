@@ -1689,6 +1689,7 @@
 0.0.0.0 Pirateclub.hu
 0.0.0.0 pirateday.hu
 0.0.0.0 Pirateday.net
+0.0.0.0 pirateproxy-bay.com
 0.0.0.0 Pirates-cove.biz
 0.0.0.0 pirate-share.net
 0.0.0.0 piratetorrents.nu
