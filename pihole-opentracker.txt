@@ -778,6 +778,7 @@
 0.0.0.0 Fano.lv
 0.0.0.0 fashion-factory.ru
 0.0.0.0 Faster-torrents.co.uk
+0.0.0.0 fastpiratebay.co.uk
 0.0.0.0 Fast-tracker.net
 0.0.0.0 Fat.lv
 0.0.0.0 Fataltracker.com
@@ -1715,6 +1716,7 @@
 0.0.0.0 piratepiratebay.com
 0.0.0.0 pirate-proxy.app
 0.0.0.0 pirateproxy.best
+0.0.0.0 pirateproxy.cc
 0.0.0.0 pirate-proxy.cc
 0.0.0.0 pirate-proxy.club
 0.0.0.0 pirateproxy.digital
@@ -1724,9 +1726,10 @@
 0.0.0.0 pirateproxy.live
 0.0.0.0 pirateproxy.monster
 0.0.0.0 pirateproxy.network
-0.0.0.0 pirate-bay-proxy.org
+0.0.0.0 pirateproxy.party
 0.0.0.0 pirate-proxy.pw
 0.0.0.0 pirateproxy.quest
+0.0.0.0 pirateproxy.site
 0.0.0.0 pirateproxy.surf
 0.0.0.0 piratesbay.sbs
 0.0.0.0 Pirates-cove.biz
@@ -1816,6 +1819,7 @@
 0.0.0.0 proxifiedpiratebay.org
 0.0.0.0 proxy.nsanedown.com
 0.0.0.0 proxybay.tech
+0.0.0.0 proxybay.xyz
 0.0.0.0 ps2ptt.com
 0.0.0.0 psd-slice.com
 0.0.0.0 psperspective.net
@@ -2220,6 +2224,7 @@
 0.0.0.0 Th3-studio.net
 0.0.0.0 Tha-tracker.net
 0.0.0.0 The7sky.org
+0.0.0.0 thebay.tv
 0.0.0.0 Thebox.bz
 0.0.0.0 thebugs.us
 0.0.0.0 Thecandy-store.org
@@ -2235,6 +2240,7 @@
 0.0.0.0 Thegft.org
 0.0.0.0 thegt.net
 0.0.0.0 thehiddenbay.com
+0.0.0.0 thehiddenbay.info
 0.0.0.0 Thehiptracker.com
 0.0.0.0 thehotfix.net
 0.0.0.0 theisozone.com
@@ -2254,6 +2260,7 @@
 0.0.0.0 thepirate-bay.org
 0.0.0.0 thepiratebay.party
 0.0.0.0 thepiratebay.radio.fm
+0.0.0.0 thepiratebay.red
 0.0.0.0 thepiratebay.rocks
 0.0.0.0 thepiratebay.se
 0.0.0.0 thepiratebay.vet 
@@ -2729,6 +2736,7 @@
 0.0.0.0 Uknova.com
 0.0.0.0 ukpass.fun
 0.0.0.0 uk-pirate.com
+0.0.0.0 ukpirate.org
 0.0.0.0 uk-pirate-bay.com
 0.0.0.0 Uktorrents.com
 0.0.0.0 Ulfex.ru
