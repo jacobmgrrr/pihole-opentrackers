@@ -1220,6 +1220,7 @@
 0.0.0.0 Legaltorrent.net
 0.0.0.0 legendary-torrents.net
 0.0.0.0 legendoftheneverbeast2015-1watch.tumblr.com
+0.0.0.0 lepiratebay.org
 0.0.0.0 Lesbians4u.org
 0.0.0.0 les-freres-ainsworth.com
 0.0.0.0 letitbit.net
@@ -1683,9 +1684,11 @@
 0.0.0.0 Pig2pig.com
 0.0.0.0 Pinoytorrents.net
 0.0.0.0 pinoy-tv-replay.com
+0.0.0.0 piraat.me
 0.0.0.0 piraat.xyz
 0.0.0.0 piranha.excom.us
 0.0.0.0 pirate.cfd 
+0.0.0.0 pirate.co
 0.0.0.0 piratebay.am
 0.0.0.0 piratebay.cc
 0.0.0.0 piratebay.fit
@@ -1706,6 +1709,7 @@
 0.0.0.0 piratebayproxy.rocks
 0.0.0.0 piratebayproxyz.com
 0.0.0.0 piratebits.org
+0.0.0.0 piratebproxy.co
 0.0.0.0 piratebrowser.com
 0.0.0.0 piratebrowser.net
 0.0.0.0 piratebrowser.org
@@ -1713,6 +1717,7 @@
 0.0.0.0 Pirateclub.hu
 0.0.0.0 pirateday.hu
 0.0.0.0 Pirateday.net
+0.0.0.0 piratemirror.co
 0.0.0.0 piratepiratebay.com
 0.0.0.0 pirate-proxy.app
 0.0.0.0 pirateproxy.best
@@ -1722,8 +1727,10 @@
 0.0.0.0 pirateproxy.digital
 0.0.0.0 pirate-proxy.fun
 0.0.0.0 pirateproxy.how
+0.0.0.0 pirateproxy.icu
 0.0.0.0 pirateproxy.ink
 0.0.0.0 pirateproxy.live
+0.0.0.0 pirate-proxy.lol
 0.0.0.0 pirateproxy.monster
 0.0.0.0 pirateproxy.network
 0.0.0.0 pirateproxy.party
@@ -1818,8 +1825,12 @@
 0.0.0.0 prosmotr-filmov.ru
 0.0.0.0 proxifiedpiratebay.org
 0.0.0.0 proxy.nsanedown.com
+0.0.0.0 proxybay.cloud
+0.0.0.0 proxybay.cx
 0.0.0.0 proxybay.tech
 0.0.0.0 proxybay.xyz
+0.0.0.0 proxybay9.com
+0.0.0.0 proxypirate1.com
 0.0.0.0 ps2ptt.com
 0.0.0.0 psd-slice.com
 0.0.0.0 psperspective.net
@@ -2160,6 +2171,7 @@
 0.0.0.0 super-warez.net
 0.0.0.0 suprbay.org
 0.0.0.0 Supreme-speeds.com
+0.0.0.0 surfbay.xyz
 0.0.0.0 surrealmoviez.info
 0.0.0.0 suspic.com
 0.0.0.0 svartakatten.org
@@ -2255,6 +2267,7 @@
 0.0.0.0 thepiratebay.ee
 0.0.0.0 thepiratebay.fm
 0.0.0.0 thepiratebay.gd
+0.0.0.0 thepiratebay.lol
 0.0.0.0 thepiratebay.ms
 0.0.0.0 ThePirateBay.org
 0.0.0.0 thepirate-bay.org
@@ -2469,6 +2482,8 @@
 0.0.0.0 Toxicj.net
 0.0.0.0 Toxictorrents.com
 0.0.0.0 tp.m-team.cc
+0.0.0.0 tpb.bar
+0.0.0.0 tpb.lol
 0.0.0.0 tpb.one
 0.0.0.0 tpb.party
 0.0.0.0 tpb.skynetcloud.site
@@ -2477,7 +2492,11 @@
 0.0.0.0 tpb22.ukpass.co
 0.0.0.0 tpb23.ukpass.co
 0.0.0.0 tpbpirateproxy.com
+0.0.0.0 tpbproxie.com
 0.0.0.0 tpbproxy.click
+0.0.0.0 tpb-proxy.co
+0.0.0.0 tpbproxy.one
+0.0.0.0 tpbunblocker.xyz
 0.0.0.0 tr.abiir.top
 0.0.0.0 tr.abir.ga
 0.0.0.0 tr.bangumi.moe
@@ -2743,6 +2762,7 @@
 0.0.0.0 ultra.zt.ua
 0.0.0.0 unblocked.pw
 0.0.0.0 unblockedpiratebay.com
+0.0.0.0 unblockpirate-bay.com
 0.0.0.0 Undeadnetwork.com
 0.0.0.0 underground50.com
 0.0.0.0 Underground-gamer.com
