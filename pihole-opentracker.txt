@@ -1724,6 +1724,7 @@
 0.0.0.0 pirateproxy.live
 0.0.0.0 pirateproxy.monster
 0.0.0.0 pirateproxy.network
+0.0.0.0 pirate-bay-proxy.org
 0.0.0.0 pirate-proxy.pw
 0.0.0.0 pirateproxy.quest
 0.0.0.0 pirateproxy.surf
